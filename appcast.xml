@@ -14,9 +14,9 @@
       <flows:forceUpdate>false</flows:forceUpdate>
       <enclosure
         url="https://github.com/Khaosyyz/flows-updates/releases/download/v0.9.1/Flows-0.9.1.dmg"
-        length="6211635"
+        length="6212123"
         type="application/octet-stream"
-        sparkle:edSignature="RfPA9hFMMrdjEsXDBSfF9G2mHib3mcTcmMCduyn+SdZBWWQOGyKMTHVLiekFlGrsImQBHAkSU889yna2Q4nOBQ=="
+        sparkle:edSignature="wiPs0izfwX7LuKgVfNUS/tnVbVyrvveqthCPDLjy7QJPH6UJxH/IwRmgxIr41UJN18emi9QpqRRFts80g46+BQ=="
       />
       <description><![CDATA[
         <h2>Flows v0.9.1</h2>
@@ -34,14 +34,14 @@
       <flows:forceUpdate>false</flows:forceUpdate>
       <enclosure
         url="https://github.com/Khaosyyz/flows-updates/releases/download/v0.9.0/Flows-0.9.0.dmg"
-        length="6214455"
+        length="6212073"
         type="application/octet-stream"
-        sparkle:edSignature="Lopen0kvCxQ2F9AjVZYpRgMWkZCYp9Vz2bhesVKEo4VVCzJPM55RXH6rUzKWToFsNiaB0DAiZKso8V0Ysvo7DA=="
+        sparkle:edSignature="sL9XjjtW5HDTAlOy/JPN8PJ5FyTEuw20Yl3ueTRgQWGOASiEWzicUBcuOFzn3rH/YWngP9QsPP2b29a7QnKPAw=="
       />
       <description><![CDATA[
         <h2>Flows v0.9.0</h2>
         <ul>
-          <li>Initial release</li>
+          <li>Initial release with auto-update fix</li>
         </ul>
       ]]></description>
     </item>
