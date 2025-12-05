@@ -14,9 +14,9 @@
       <flows:forceUpdate>false</flows:forceUpdate>
       <enclosure
         url="https://github.com/Khaosyyz/flows-updates/releases/download/v0.9.1/Flows-0.9.1.dmg"
-        length="6212123"
+        length="6211340"
         type="application/octet-stream"
-        sparkle:edSignature="wiPs0izfwX7LuKgVfNUS/tnVbVyrvveqthCPDLjy7QJPH6UJxH/IwRmgxIr41UJN18emi9QpqRRFts80g46+BQ=="
+        sparkle:edSignature="dOiX2K5cG8R8hgkCR1MkSSpiZlkFUD+BGMxNk0GWESD+/NBgj+Dw6llcgvZ3rJ6P/yWjPWSHIHXTzj1qoF6PAw=="
       />
       <description><![CDATA[
         <h2>Flows v0.9.1</h2>
