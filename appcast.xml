@@ -2,48 +2,26 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:flows="http://flows.app/xml-namespaces/flows">
   <channel>
     <title>Flows Updates</title>
-    <link>https://khaosyyz.github.io/Flows/appcast.xml</link>
+    <link>https://khaosyyz.github.io/flows-updates/appcast.xml</link>
     <description>Flows app updates</description>
     <language>en</language>
     <item>
-      <title>Version 0.9.2</title>
+      <title>Version 0.9.0</title>
       <pubDate>Thu, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <flows:forceUpdate>false</flows:forceUpdate>
-      <enclosure
-        url="https://github.com/Khaosyyz/Flows/releases/download/v0.9.2/Flows-0.9.2.dmg"
-        length="4489633"
-        type="application/octet-stream"
-        sparkle:edSignature="VfXZbuqNuHc/yA1g7eZmo50K2DKO0FKZhfqzHyYplsv0cTDZPqFNeLb7W9YKrUKMCi0HoFLqMczC8aDi0iaaBg=="
-      />
-      <description><![CDATA[
-        <h2>Flows v0.9.2</h2>
-        <ul>
-          <li>Audio engine warmup on startup</li>
-        </ul>
-      ]]></description>
-    </item>
-    <item>
-      <title>Version 0.9.1</title>
-      <pubDate>Wed, 04 Dec 2025 00:00:00 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <flows:forceUpdate>false</flows:forceUpdate>
       <enclosure
-        url="https://github.com/Khaosyyz/Flows/releases/download/v0.9.1/Flows-0.9.1.dmg"
-        length="4494699"
+        url="https://github.com/Khaosyyz/Flows/releases/download/v0.9.0/Flows-0.9.0.dmg"
+        length="6211784"
         type="application/octet-stream"
-        sparkle:edSignature="wtwdEjPF3gYxgnXabITH4qRGpLPx81kJG9nX9upc9mQIupR5mvtXAYTFTESZEGGeWDPPPkrf2Kqi903H2tTVCw=="
+        sparkle:edSignature="XxZtW5VNIpWVQCzbEvXBcgRe395gVPzipbR5AZSAM1BbXgym/C25QK83LbjYqQGL80j0w/lVeyWiR33ncCzkCg=="
       />
       <description><![CDATA[
-        <h2>Flows v0.9.1</h2>
+        <h2>Flows v0.9.0</h2>
         <ul>
-          <li>Developer ID signed and notarized</li>
-          <li>Sparkle auto-update integration</li>
-          <li>Check for updates button on home page</li>
+          <li>Initial release</li>
         </ul>
       ]]></description>
     </item>
