@@ -6,6 +6,26 @@
     <description>Flows app updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.9.1</title>
+      <pubDate>Sun, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <flows:forceUpdate>false</flows:forceUpdate>
+      <enclosure
+        url="https://github.com/Khaosyyz/Flows/releases/download/v0.9.1/Flows-0.9.1.dmg"
+        length="6283593"
+        type="application/octet-stream"
+        sparkle:edSignature="ahhHilUqwkTHc9WAnjdrT1v4uNKOqmsVYAg+YwM+3Io3Jzkb2PjNZvJC9m6jTE/WKwe07C6LTaH5qnrvwCyeDA=="
+      />
+      <description><![CDATA[
+        <h2>Flows v0.9.1</h2>
+        <ul>
+          <li>Update notification feature</li>
+        </ul>
+      ]]></description>
+    </item>
+    <item>
       <title>Version 0.9.0</title>
       <pubDate>Thu, 05 Dec 2025 00:00:00 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
